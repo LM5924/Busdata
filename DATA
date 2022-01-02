@@ -1,0 +1,60 @@
+{
+  "fleetdata": [
+    {
+      "busname": "ATENU",
+      "number": 1,
+      "carplate": "XG 8231",
+      "fleetnum": "5730",
+      "depot": "D",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    }
+    "Groutedata": [
+    {
+      "number": 0,
+      "route": "DHB",
+      "destZ": "暫停服務",
+      "destY": "暫停服務",
+      "maxPZ": "1",
+      "priceZ1": "0.0",
+      "halfpriceZ1": "0.0",
+      "maxPY": "1",
+      "priceY1": "0.0",
+      "halfpriceY1": "0.0"
+    },
+    {
+      "number": 1,
+      "route": "521",
+      "destZ": "卡迪夫站",
+      "destY": "落山碼頭",
+      "maxPZ": "2",
+      "priceZ1": "16.8",
+      "halfpriceZ1": "8.4",
+      "priceZ2": "12.6",
+      "halfpriceZ2": "6.3",
+      "maxPY": "2",
+      "priceY1": "16.8",
+      "halfpriceY1": "8.4",
+      "priceY2": "3.2",
+      "halfpriceY2": "1.6"
+    },"Gpaidata": [
+    {
+      "number": 0,
+      "route": "GB",
+      "front": 1,
+      "frontid1": "rbxassetid://7680260237",
+      "controllerid1": "rbxassetid://7680277700",
+      "side": 1,
+      "sideid1": "rbxassetid://7680266845"
+    },
+    {
+      "number": 1,
+      "route": "OO",
+      "front": 1,
+      "frontid1": "rbxassetid://7680330195",
+      "controllerid1": "rbxassetid://7680339206",
+      "side": 1,
+      "sideid1": "rbxassetid://7680330195"
+    },
+    
