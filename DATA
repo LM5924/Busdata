@@ -10,6 +10,7 @@
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     }
+    ],  
     "Groutedata": [
     {
       "number": 0,
@@ -38,7 +39,9 @@
       "halfpriceY1": "8.4",
       "priceY2": "3.2",
       "halfpriceY2": "1.6"
-    },"Gpaidata": [
+    }
+      ],
+      "Gpaidata": [
     {
       "number": 0,
       "route": "GB",
@@ -75,5 +78,7 @@
       "side": 2,
       "sideid1": "rbxassetid://7926070705",
       "sideid2": "rbxassetid://7560803101"
-    },
+    }
+  ]
+}
     
