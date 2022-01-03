@@ -30,6 +30,16 @@
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     }
+    {
+      "busname": "E6S",
+      "number": 3,
+      "carplate": "XE 996",
+      "fleetnum": "4120",
+      "depot": "D",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    }
   ],
   "Groutedata": [
     {
