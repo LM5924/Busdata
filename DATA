@@ -11,6 +11,17 @@
       "backad": "rbxassetid://"
     }
     ],  
+    {
+      "busname": "V6U",
+      "number": 1,
+      "carplate": "XH 921",
+      "fleetnum": "4800",
+      "depot": "D",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    }
+    ],  
     "Groutedata": [
     {
       "number": 0,
@@ -29,16 +40,44 @@
       "route": "521",
       "destZ": "卡迪夫站",
       "destY": "落山碼頭",
-      "maxPZ": "2",
+      "maxPZ": "3",
       "priceZ1": "16.8",
       "halfpriceZ1": "8.4",
       "priceZ2": "12.6",
       "halfpriceZ2": "6.3",
+      "priceZ3":"2.2"
+      "halfpriceZ3":"1.1"
       "maxPY": "2",
       "priceY1": "16.8",
       "halfpriceY1": "8.4",
       "priceY2": "3.2",
       "halfpriceY2": "1.6"
+    }
+      ],
+     {
+      "number": 2,
+      "route": "2M",
+      "destZ": "落山站",
+      "destY": "落山碼頭",
+      "maxPZ": "1",
+      "priceZ1": "4.2",
+      "halfpriceZ1": "2.1",
+      "maxPY": "1",
+      "priceY1": "4.2",
+      "halfpriceY1": "2.1",
+    }
+      ],
+    {
+      "number": 2,
+      "route": "509A/B",
+      "destZ": "卡迪夫站",
+      "destY": "卡迪夫巴士轉乘站",
+      "maxPZ": "1",
+      "priceZ1": "5.4",
+      "halfpriceZ1": "2.7",
+      "maxPY": "1",
+      "priceY1": "5.4",
+      "halfpriceY1": "2.7",
     }
       ],
       "Gpaidata": [
