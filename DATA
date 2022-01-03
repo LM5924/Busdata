@@ -1,7 +1,7 @@
 {
   "fleetdata": [
     {
-      "busname": "V6U",
+      "busname": "4800",
       "number": 1,
       "carplate": "XE 293",
       "fleetnum": "4800",
@@ -11,7 +11,7 @@
       "backad": "rbxassetid://"
     },
     {
-      "busname": "V6U",
+      "busname": "4801",
       "number": 2,
       "carplate": "XE 9321",
       "fleetnum": "4801",
@@ -21,7 +21,7 @@
       "backad": "rbxassetid://"
     },
     {
-      "busname": "v6U",
+      "busname": "4802",
       "number": 3,
       "carplate": "XE 996",
       "fleetnum": "4802",
