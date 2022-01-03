@@ -11,17 +11,7 @@
       "backad": "rbxassetid://"
     }
     ],  
-    {
-      "busname": "V6U",
-      "number": 1,
-      "carplate": "XH 921",
-      "fleetnum": "4800",
-      "depot": "D",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    }
-    ],  
+    
     "Groutedata": [
     {
       "number": 0,
