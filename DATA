@@ -11,7 +11,7 @@
       "backad": "rbxassetid://"
     },
     {
-      "busname": "4801",
+      "busname": "4800",
       "number": 2,
       "carplate": "XE 9321",
       "fleetnum": "4801",
@@ -21,7 +21,7 @@
       "backad": "rbxassetid://"
     },
     {
-      "busname": "4802",
+      "busname": "4800",
       "number": 3,
       "carplate": "XE 996",
       "fleetnum": "4802",
@@ -106,19 +106,19 @@
     },
     {
       "number": 5,
-      "route": "N247",
-      "destZ": "甘泉市中心",
-      "destY": "大新中心",
+      "route": "N521",
+      "destZ": "曉峰園",
+      "destY": "落山碼頭",
       "maxPZ": "2",
-      "priceZ1": "11.6",
-      "halfpriceZ1": "5.8",
-      "priceZ2": "5.3",
-      "halfpriceZ2": "2.7",
+      "priceZ1": "20.6",
+      "halfpriceZ1": "10.3",
+      "priceZ2": "6.2",
+      "halfpriceZ2": "3.1",
       "maxPY": "2",
-      "priceY1": "11.6",
-      "halfpriceY1": "5.8",
-      "priceY2": "5.3",
-      "halfpriceY2": "2.7"
+      "priceY1": "20.6",
+      "halfpriceY1": "10.3",
+      "priceY2": "17.6",
+      "halfpriceY2": "8.8"
     },
     {
       "number": 6,
@@ -135,17 +135,56 @@
 
     {
       "number": 7,
-      "route": "HIRE ",
-      "destZ": "TTT Deport",
-      "destY": "TTT Deport",
+      "route": "N509 ",
+      "destZ": "卡迪夫站",
+      "destY": "卡迪夫山道",
       "maxPZ": "1",
-      "priceZ1": "0.0",
-      "halfpriceZ1": "0.0",
+      "priceZ1": "7.2",
+      "halfpriceZ1": "3.6",
       "maxPY": "1",
-      "priceY1": "0.0",
-      "halfpriceY1": "0.0"
-    }
-
+      "priceY1": "7.2",
+      "halfpriceY1": "3.6"
+    },
+    
+    {
+      "number": 8,
+      "route": "521S ",
+      "destZ": "卡迪夫巴士轉乘站",
+      "destY": "落山站",
+      "maxPZ": "1",
+      "priceZ1": "12.2",
+      "halfpriceZ1": "6.1",
+      "maxPY": "1",
+      "priceY1": "12.2",
+      "halfpriceY1": "6.1"
+    },
+               
+    {
+      "number": 9,
+      "route": "527M ",
+      "destZ": "鯽魚湖",
+      "destY": "落山站",
+      "maxPZ": "1",
+      "priceZ1": "6.2",
+      "halfpriceZ1": "3.1",
+      "maxPY": "1",
+      "priceY1": "6.2",
+      "halfpriceY1": "3.1"
+    },
+        
+    {
+      "number": 10,
+      "route": "527MS ",
+      "destZ": "卡迪夫巴士轉乘站",
+      "destY": "鯽魚湖",
+      "maxPZ": "1",
+      "priceZ1": "5.2",
+      "halfpriceZ1": "2.6",
+      "maxPY": "1",
+      "priceY1": "5.2",
+      "halfpriceY1": "2.6"
+    },
+        
   ],
   "Gpaidata": [
     {
