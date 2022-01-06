@@ -110,18 +110,18 @@
     },
     {
       "number": 5,
-      "route": "521N",
-      "destZ": "卡迪夫舊碼頭",
-      "destY": "紅灣花園",
+      "route": "N521",
+      "destZ": "曉峰園",
+      "destY": "落山碼頭",
       "maxPZ": "2",
-      "priceZ1": "22.8",
-      "halfpriceZ1": "11.4",
-      "priceZ2": "7.2",
-      "halfpriceZ2": "3.6",
+      "priceZ1": "20.4",
+      "halfpriceZ1": "10.2",
+      "priceZ2": "6.2",
+      "halfpriceZ2": "3.1",
       "maxPY": "2",
-      "priceY1": "22.8",
-      "halfpriceY1": "11.4",
-      "priceY2": "5.3",
+      "priceY1": "20.4",
+      "halfpriceY1": "10.2",
+      "priceY2": "5.4",
       "halfpriceY2": "2.7"
     },
     {
@@ -187,24 +187,9 @@
       "priceY1": "19.2",
       "halfpriceY1": "9.6"
     },
+    
     {
       "number": 11,
-      "route": "522",
-      "destZ": "卡迪夫東碼頭",
-      "destY": "落山碼頭",
-      "maxPZ": "2",
-      "priceZ1": "18.6",
-      "halfpriceZ1": "9.3",
-      "priceZ2": "7.2",
-      "halfpriceZ2": "3.6",
-      "maxPY": "2",
-      "priceY1": "18.6",
-      "halfpriceY1": "9.3",
-      "priceY2": "2.2",
-      "halfpriceY2": "1.1"
-    },
-    {
-      "number": 12,
       "route": "N522",
       "destZ": "卡迪夫東碼頭",
       "destY": "紅灣花園",
@@ -224,7 +209,7 @@
       "halfpriceY3": "2.6"
     },
     {
-      "number": 13,
+      "number": 12,
       "route": "2M",
       "destZ": "落山站",
       "destY": "落山碼頭",
@@ -235,6 +220,112 @@
       "priceY1": "4.2",
       "halfpriceY1": "2.1"
       
+    },
+    {
+      "number": 13,
+      "route": "962",
+      "destZ": "屯門湖景邨",
+      "destY": "落山站",
+      "maxPZ": "4",
+      "priceZ1": "24.4",
+      "halfpriceZ1": "12.2",
+      "priceZ2": "8.2",
+      "halfpriceZ2": "4.1",
+      "priceZ3":"6.2",
+      "halfpriceZ3":"3.1",
+      "priceZ4":"3.2",
+      "halfpriceZ4":"1.1",
+      "maxPY": "3",
+      "priceY1": "24.4",
+      "halfpriceY1": "12.2",
+      "priceY2": "18.2",
+      "halfpriceY2": "9.1",
+      "priceY3":"2.2"
+      "halfpriceY3":"1.1"
+    },
+    {
+      "number": 14,
+      "route": "962A",
+      "destZ": "紅灣花園",
+      "destY": "樂置花園",
+      "maxPZ": "3",
+      "priceZ1": "26.3",
+      "halfpriceZ1": "13.2",
+      "priceZ2": "20.2",
+      "halfpriceZ2": "10.1",
+      "priceZ3":"3.2",
+      "halfpriceZ3":"1.6",
+      "maxPY": "3",
+      "priceY1": "26.3",
+      "halfpriceY1": "13.2",
+      "priceY2": "8.2",
+      "halfpriceY2": "4.1"
+      "priceY3":"4.2"
+      "halfpriceY3":"2.1"
+    },
+    {
+      "number": 15,
+      "route": "962B",
+      "destZ": "山景邨",
+      "destY": "落山站",
+      "maxPZ": "3",
+      "priceZ1": "29.4",
+      "halfpriceZ1": "14.7",
+      "priceZ2": "10.2",
+      "halfpriceZ2": "5.1",
+      "maxPY": "3",
+      "priceY1": "29.4",
+      "halfpriceY1": "14.7",
+      "priceY2": "22.2",
+      "halfpriceY2": "11.1"
+      "priceY3":"2.2"
+      "halfpriceY3":"1.1"
+    },
+    {
+      "number": 16,
+      "route": "962X",
+      "destZ": "屯門碼頭",
+      "destY": "落山碼頭",
+      "maxPZ": "4",
+      "priceZ1": "30.2",
+      "halfpriceZ1": "15.1",
+      "priceZ2": "12.2",
+      "halfpriceZ2": "6.1",
+      "priceZ3":"6.2"
+      "halfpriceZ3":"3.1"
+      "priceZ4":"3.2"
+      "halfpriceZ4":"1.6"
+      "maxPY": "2",
+      "priceY1": "20.4",
+      "halfpriceY1": "10.2",
+      "priceY2": "5.4",
+      "halfpriceY2": "2.7"
+    },
+    {
+      "number": 17,
+      "route": "N962",
+      "destZ": "樂置花園",
+      "destY": "落山碼頭",
+      "maxPZ": "5",
+      "priceZ1": "35.2",
+      "halfpriceZ1": "17.6",
+      "priceZ2": "14.2",
+      "halfpriceZ2": "7.1",
+      "priceZ3":"10.2"
+      "halfpriceZ3":"5.1"
+      "priceZ4":"7.2"
+      "halfpriceZ4":"3.6"
+      "priceZ5":"3.2"
+      "halfpriceZ5":"1.6"
+      "maxPY": "4",
+      "priceY1": "35.2",
+      "halfpriceY1": "17.6",
+      "priceY2": "30.2",
+      "halfpriceY2": "15.1"
+      "priceY3":"18.6"
+      "halfpriceY3":"9.3"
+      "priceY4":"2.2"
+      "halfpriceY4":"1.1"
     }
     
   ],
