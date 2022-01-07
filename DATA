@@ -19,16 +19,6 @@
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
-    },
-    {
-      "busname": "ATENU",
-      "number": 1,
-      "carplate": "XG 236",
-      "fleetnum": "4700",
-      "depot": "D",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
     }
   ],
   "Groutedata": [
