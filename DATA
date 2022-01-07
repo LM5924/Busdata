@@ -240,7 +240,7 @@
       "halfpriceY1": "12.2",
       "priceY2": "18.2",
       "halfpriceY2": "9.1",
-      "priceY3":"2.2"
+      "priceY3":"2.2",
       "halfpriceY3":"1.1"
     },
     {
@@ -259,8 +259,8 @@
       "priceY1": "26.3",
       "halfpriceY1": "13.2",
       "priceY2": "8.2",
-      "halfpriceY2": "4.1"
-      "priceY3":"4.2"
+      "halfpriceY2": "4.1",
+      "priceY3":"4.2",
       "halfpriceY3":"2.1"
     },
     {
@@ -277,8 +277,8 @@
       "priceY1": "29.4",
       "halfpriceY1": "14.7",
       "priceY2": "22.2",
-      "halfpriceY2": "11.1"
-      "priceY3":"2.2"
+      "halfpriceY2": "11.1",
+      "priceY3":"2.2",
       "halfpriceY3":"1.1"
     },
     {
@@ -291,10 +291,10 @@
       "halfpriceZ1": "15.1",
       "priceZ2": "12.2",
       "halfpriceZ2": "6.1",
-      "priceZ3":"6.2"
-      "halfpriceZ3":"3.1"
-      "priceZ4":"3.2"
-      "halfpriceZ4":"1.6"
+      "priceZ3":"6.2",
+      "halfpriceZ3":"3.1",
+      "priceZ4":"3.2",
+      "halfpriceZ4":"1.6",
       "maxPY": "2",
       "priceY1": "20.4",
       "halfpriceY1": "10.2",
@@ -311,20 +311,20 @@
       "halfpriceZ1": "17.6",
       "priceZ2": "14.2",
       "halfpriceZ2": "7.1",
-      "priceZ3":"10.2"
-      "halfpriceZ3":"5.1"
-      "priceZ4":"7.2"
-      "halfpriceZ4":"3.6"
-      "priceZ5":"3.2"
-      "halfpriceZ5":"1.6"
+      "priceZ3":"10.2",
+      "halfpriceZ3":"5.1",
+      "priceZ4":"7.2",
+      "halfpriceZ4":"3.6",
+      "priceZ5":"3.2",
+      "halfpriceZ5":"1.6",
       "maxPY": "4",
       "priceY1": "35.2",
       "halfpriceY1": "17.6",
       "priceY2": "30.2",
-      "halfpriceY2": "15.1"
-      "priceY3":"18.6"
-      "halfpriceY3":"9.3"
-      "priceY4":"2.2"
+      "halfpriceY2": "15.1",
+      "priceY3":"18.6",
+      "halfpriceY3":"9.3",
+      "priceY4":"2.2",
       "halfpriceY4":"1.1"
     }
     
