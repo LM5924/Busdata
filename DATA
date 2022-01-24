@@ -19,6 +19,16 @@
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
+    },
+    {
+      "busname": "DHB Streetdeck",
+      "number": 1,
+      "carplate": "XM 2312",
+      "fleetnum": "3100",
+      "depot": "D",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
     }
   ],
   "Groutedata": [
@@ -322,12 +332,12 @@
   "Gpaidata": [
     {
       "number": 0,
-      "route": "GB",
+      "route": "DHB",
       "front": 1,
-      "frontid1": "rbxassetid://7680260237",
-      "controllerid1": "rbxassetid://7680277700",
+      "frontid1": "rbxassetid://8599024662",
+      "controllerid1": "rbxassetid://8599024662",
       "side": 1,
-      "sideid1": "rbxassetid://7680266845"
+      "sideid1": "rbxassetid://8631113348"
     },
     {
       "number": 1,
@@ -349,13 +359,13 @@
     },
     {
       "number": 3,
-      "route": "23Y",
+      "route": "12AY",
       "front": 1,
-      "frontid1": "rbxassetid://7560800414",
-      "controllerid1": "rbxassetid://7625536309",
+      "frontid1": "rbxassetid://8599019829",
+      "controllerid1": "rbxassetid://8599019829",
       "side": 2,
-      "sideid1": "rbxassetid://7926070705",
-      "sideid2": "rbxassetid://7560803101"
+      "sideid1": "rbxassetid://8599022191",
+      "sideid2": "rbxassetid://8599022191"
     },
     {
       "number": 4,
