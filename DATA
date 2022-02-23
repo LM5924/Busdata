@@ -326,7 +326,7 @@
       "halfpriceY3":"9.3",
       "priceY4":"2.2",
       "halfpriceY4":"1.1"
-    }
+    },
     {
       "number": 18,
       "route": "G1",
@@ -337,7 +337,7 @@
       "halfpriceZ1": "1.7",
       "maxPY": "1",
       "priceY1": "3.4",
-      "halfpriceY1": "1.7",
+      "halfpriceY1": "1.7"
     }
     
 ],
