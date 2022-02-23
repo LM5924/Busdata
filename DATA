@@ -327,8 +327,20 @@
       "priceY4":"2.2",
       "halfpriceY4":"1.1"
     }
+    {
+      "number": 18,
+      "route": "G1",
+      "destZ": "貢景地上",
+      "destY": "海景花園",
+      "maxPZ": "1",
+      "priceZ1": "3.4",
+      "halfpriceZ1": "1.7",
+      "maxPY": "1",
+      "priceY1": "3.4",
+      "halfpriceY1": "1.7",
+    }
     
-  ],
+],
   "Gpaidata": [
     {
       "number": 0,
